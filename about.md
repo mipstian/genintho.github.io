@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Hi!
 permalink: /about/
 ---
-
-## Hi!
 
 ### Gravatar
 ![My Gravatar](http://www.gravatar.com/avatar/779a41e454dd76d6cd266787a6a2d115?s=150)
