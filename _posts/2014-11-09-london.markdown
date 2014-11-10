@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "London"
+date:   2014-11-09 17:28:33
+categories:
+  - travel
+  - photo
+---
+
+London is great.
+
+![Big Ben]({{ site.url }}/img/2014-11-09/big-ben.jpg)
+
+![Parliament]({{ site.url }}/img/2014-11-09/parliament.jpg)
+
+![Thames]({{ site.url }}/img/2014-11-09/thames.jpg)
+
+
