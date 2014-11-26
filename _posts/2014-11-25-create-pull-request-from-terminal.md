@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Create a Github Pull Request from the terminal
+date:   2014-11-25 23:13:30
 category: terminal
 ---
 
