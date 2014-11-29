@@ -16,9 +16,9 @@ To simply create a Github Pull Request on the site from the current active direc
     echo $PATH_REPO
     open $PATH_REPO/compare/$NAME
 }
-
 {% endhighlight %}
 
+!!! This works only if you are using the HTTP URL.
 
 You can probably find a more up to date version in my [dotfiles](https://github.com/genintho/dotfiles)
 
