@@ -36,7 +36,7 @@ Expensify's database holds millions of different merchants from all over the wor
 
 Let's take the Hilton hotels as an example. We have "Hilton", "Hilton hotel", "Hilton hotel San Francisco", "Helton", and possibly many other variations. This can be due to user input but mostly comes from our bank import technology, which allows users to automatically import their transactions coming from their bank account and into Expensify. The same merchant can show up completely different depending on the bank; you might have noticed that merchant names in your bank statements are not exactly nice or accurate, to say the least. We have a few ways to "clean up" the data imported, but the number of possible variations make it impossible to be perfect.
 
-3. Solving the Variations Issue
+### 3. Solving the Variations Issue
 
 Why this diversity is a problem? Well if the user starts to type "Hilton," the suggestion he will get is going to be "Hilton", "Hilton hotel," "Hilton hotel San Francisco," or "Hilton New York," which are in fact the same exact merchant. What if the user was looking for a merchant "Hilton BBQ"? It could have appeared immediately if the hotel suggestions were collapsed into one. 
 
