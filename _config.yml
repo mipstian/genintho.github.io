@@ -2,7 +2,7 @@
 title: Thomas genin
 email: xt6.thomas.genin@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Every bytes count.
+  Every bytes count. Every ms count.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://genintho.github.io"
 #url: "http://0.0.0.0:4000"
