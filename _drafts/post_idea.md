@@ -1,0 +1,4 @@
+- ultimate jpeg optimization with dssim
+- inline critical rendering CSS with fallback
+- hipumnk perf status
+- adding react to existing code base 
