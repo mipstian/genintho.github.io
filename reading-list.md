@@ -18,7 +18,7 @@ __January__
 __February__
 
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Ashlee Vance](http://amzn.to/1Xuu3MJ)
-
+- [Peopleware: Productive Projects and Teams](http://amzn.to/1OGGqOX) - Tom DeMarco & Tim Lister
 
 ## Magazine Subscription
 - [Inc](http://www.inc.com/)
