@@ -11,13 +11,13 @@ title: Reading List
 
 __January__
 
-- [Ancillary Justice (Imperial Radch Book 1) - Ann Leckie](http://amzn.to/1Xuu6YO)
-- [Ancillary Sword (Imperial Radch Book 2)  - Ann Leckie](http://amzn.to/246xOMS)
-- [Ancillary Mercy (Imperial Radch Book 3) - Ann Leckie](http://amzn.to/246xRIw)
+- [Ancillary Justice (Imperial Radch Book 1)](http://amzn.to/1Xuu6YO) - Ann Leckie
+- [Ancillary Sword (Imperial Radch Book 2)](http://amzn.to/246xOMS) - Ann Leckie
+- [Ancillary Mercy (Imperial Radch Book 3)](http://amzn.to/246xRIw) - Ann Leckie
 
 __February__
 
-- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Ashlee Vance](http://amzn.to/1Xuu3MJ)
+- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://amzn.to/1Xuu3MJ) - Ashlee Vance
 - [Peopleware: Productive Projects and Teams](http://amzn.to/1OGGqOX) - Tom DeMarco & Tim Lister
 
 ## Magazine Subscription
