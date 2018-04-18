@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Class Laravel\Spark\Providers\SparkServiceProvider not found"
-date: 2018-04-17 10:00:00
+title:  Class Laravel\Spark\Providers\SparkServiceProvider not found
+date: 2018-04-17 19:00:00
 ---
 
 While updating some composer dependencies on a Laravel 5.6 using Laravel Spark, I encounter the following error:
@@ -10,7 +10,7 @@ While updating some composer dependencies on a Laravel 5.6 using Laravel Spark, 
 @php artisan package:discover
 
 In ProviderRepository.php line 208:
-                                                                                                                                Class 'Laravel\Spark\Providers\SparkServiceProvider' not found  
+Class 'Laravel\Spark\Providers\SparkServiceProvider' not found  
 
 Script @php artisan package:discover handling the post-autoload-> > dump event returned with error code 1
 ```
