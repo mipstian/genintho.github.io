@@ -1,14 +1,9 @@
-# Site settings
 title: Every ms count
 email: xt6.thomas.genin@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Every bytes count. Every ms count. The devil is in the details.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://genintho.github.io"
-#url: "http://0.0.0.0:4000"
-#twitter_username: jekyllrb
-github_username:  genintho
-
-# Build settings
+description: |
+  Every ms count and every bytes count, until the don't 
+baseurl: ''
+url: 'http://genintho.github.io'
+github_username: genintho
 markdown: kramdown
-permalink: /:title
+permalink: '/:title'
